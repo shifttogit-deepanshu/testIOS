@@ -1,0 +1,5 @@
+workflows:
+  hello-world:
+    name: ios dh
+    scripts:
+        - npm run ios
